@@ -1,2 +1,2 @@
 # learnGit
-Learning git functional with imre
+Learning git functional with imre Nagi 
