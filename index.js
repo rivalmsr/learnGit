@@ -1,3 +1,8 @@
+import Main from "./main"
 function Index(){
-  return console.log('this is index')
+  return(
+    <>
+      <Main />
+    </>
+  ) 
 }
