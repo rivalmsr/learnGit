@@ -1,3 +1,4 @@
+import FourthMain from "./fourth-main"
 import Main from "./main"
 import SecondMain from "./second-main"
 import ThirdMain from "./third-main"
@@ -7,6 +8,7 @@ function Index(){
       <Main />
       <SecondMain />
       <ThirdMain />
+      <FourthMain />
     </>
   ) 
 }
