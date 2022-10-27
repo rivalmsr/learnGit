@@ -3,6 +3,7 @@ import SecondMain from "./second-main"
 import Account from "./account"
 import SecondAccount from "./second-account"
 import ThirdAccount from "./third-account"
+import FourthAccount from "./fourth-account"
 
 function Index(){
   return(
@@ -12,6 +13,7 @@ function Index(){
       <Account />
       <SecondAccount />
       <ThirdAccount /> 
+      <FourthAccount />
     </>
   ) 
 }
